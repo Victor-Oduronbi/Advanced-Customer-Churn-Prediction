@@ -103,6 +103,9 @@ Analysis of the winning Logistic Regression weights revealed the following core 
 *   **Algorithmic Strategy:** Lowers financial impact losses to **$101,640** by offering optimized retention incentives ($40 cost per alert).
 *   **Net Value Generated:** Yields **$47,960** in pure cycle savings.
 
+<img width="966" height="516" alt="image" src="https://github.com/user-attachments/assets/4d098937-504c-4d9a-a123-afbc17968c68" />
+
+
 ### Financial Savings Breakdown
 
 * * *
